@@ -2,6 +2,9 @@
 
 A simple HTML portfolio showcasing personal and professional information in a clean, accessible format.
 
+## Check the website 
+  [`Go to Official Website`](https://shaikjanibasha3450.github.io/web-capstone-project-1.0/)
+
 ## Features
 
 - **Personal Info**: Displays name and profile image
